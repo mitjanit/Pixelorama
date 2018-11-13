@@ -7,7 +7,9 @@ class ImagePlacer {
 
 	boolean showNames;
 	boolean showBorder;
+
 	PVector pos;
+	float angle;
 	float w, h;
 
 	ImagePlacer(){
@@ -38,6 +40,11 @@ class ImagePlacer {
 		return this;
 	}
 
+	ImagePlacer setAngle(float a){
+		this.angle = a;
+		return this;
+	}
+
 
 	void loadImages(String folderName){
 
@@ -60,35 +67,60 @@ class ImagePlacer {
 		}
 	}
 
-	void displayImageAt(int n, PVector pos, float w, float h){
-		if(n<images.length){
-			PImage img = images[n];
-			String name = imageNames[n];
-			image(img, pos.x, pos.y, w, h);
-			if(showNames){
-				textAlign(CENTER); fill(0);
-				text(name, pos.x + w/2, pos.y + h/2);
-			}
-			if(showBorder){
-				noFill(); stroke(0); strokeWeight(2);
-				rect(pos.x, pos.y, w, h);
-			}
-		}
-	}
-
 	void displayImageAt(int n){
 		if(n<images.length){
 			PImage img = images[n];
 			String name = imageNames[n];
-			image(img, pos.x, pos.y, w, h);
-			if(showNames){
-				textAlign(CENTER); fill(0);
-				text(name, pos.x + w/2, pos.y + h/2);
-			}
-			if(showBorder){
-				noFill(); stroke(0); strokeWeight(2);
-				rect(pos.x, pos.y, w, h);
-			}
+			pushMatrix();
+				
+				translate(pos.x + w/2, pos.y + h/2);
+				
+				pushMatrix();
+					rotate(this.angle);
+					imageMode(CENTER);
+					image(img, 0, 0, w, h);
+
+					if(showBorder){
+						noFill(); stroke(0); strokeWeight(2);
+						rectMode(CENTER);
+						rect(0, 0, w, h);
+					}
+				popMatrix();
+
+				if(showNames){
+					textAlign(CENTER); fill(0);
+					text(name, 0, 0);
+				}
+			popMatrix();
 		}
 	}
+
+	void displayImageAt(int n, PVector pos, float w, float h){
+		if(n<images.length){
+			PImage img = images[n];
+			String name = imageNames[n];
+			pushMatrix();
+				
+				translate(pos.x + w/2, pos.y + h/2);
+				
+				pushMatrix();
+					rotate(this.angle);
+					imageMode(CENTER);
+					image(img, 0, 0, w, h);
+
+					if(showBorder){
+						noFill(); stroke(0); strokeWeight(2);
+						rectMode(CENTER);
+						rect(0, 0, w, h);
+					}
+				popMatrix();
+
+				if(showNames){
+					textAlign(CENTER); fill(0);
+					text(name, 0, 0);
+				}
+			popMatrix();
+		}
+	}
+
 }
