@@ -1,18 +1,19 @@
 //*************************************************************//
-// Paleta de colors basada en una imatge gradient.
-// Els colors es trien aleatòriament al llarg de la coordenada X de la imatge.
-// Els colors flueixen en moure's la seva coordenada X sobre la imatge.
 //
 //********************** Basic Settings ***********************//
 
-int    sceneWidth   = 800;
-int    sceneHeight  = 600;
+int    sceneWidth   = 900;
+int    sceneHeight  = 900;
 color  bgColor    = #ECECEC;
 String pathDATA = "../../../data/";
 
 //********************** Pixel Management ***********************//
 
+ImagePlacer ip;
 ImageStrip is;
+ImageGrid ig;
+
+int mode = 0;
 
 //********************** Basic Settings ***********************//
 
@@ -23,19 +24,54 @@ void settings() {
 void setup(){
 
 	background(bgColor);
+
+	ip = new ImagePlacer();
+	ip.setPlace(10,10).setSize(width-20, height-20).setShowNames(true).setShowBorder(true);
+	ip.loadImages("footage01");
+
 	is = new ImageStrip();
+	is.setCols(1).setPlace(10,10).setSize(width-20, height-20).setShowNames(true).setShowBorder(true);
 	is.loadImages("footage01");
+
+	ig = new ImageGrid();
+	ig.setGrid(4, 4).setPlace(0,0).setSize(width, height).setShowNames(true).setShowBorder(true);
+	ig.loadImages("footage01");
 
 }
 
 void draw(){
-	//is.displayRow(0, 2, new PVector(0,0), width, height/2);
-	is.displayGrid(0, 3, 2,2, new PVector(0,0), width, height);
+	background(bgColor);
+	
+	if(mode==0){
+		// IMAGE PLACER
+		ip.displayImageAt(0);
+	}
+	else if(mode==1){
+		// IMAGE STRIP
+		int numCols = (int)map(mouseX, 0, width, 1, is.imageCount+1);
+		println(numCols);
+		is.setCols(numCols).displayStrip(0,numCols-1);
+	}
+	else if(mode==2) {
+		// IMAGE GRID
+		int numCols = (int)map(mouseX, 0, width, 1, 10);
+		int numRows = (int)map(mouseY, 0, height, 1, 10);
+		ig.setGrid(numCols, numRows).displayGrid();
+	}
+
 }
 
 
 
 void keyPressed(){
 	if(key=='0'){
+		mode = 0;
 	}
+	else if(key=='1'){
+		mode = 1;
+	}
+	else if(key=='2'){
+		mode = 2;
+	}
+
 }

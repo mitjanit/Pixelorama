@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"carre",
+				"carroceries"
+			],
+			[
+				"drop",
+				"dropdown-item"
+			],
+			[
+				"stic",
+				"stickSound"
+			],
+			[
+				"soun",
+				"soundOn"
+			],
+			[
+				"point",
+				"pointSound"
+			],
+			[
+				"lef",
+				"leftPoints"
+			],
+			[
+				"left",
+				"leftPoints"
+			],
+			[
+				"le",
+				"leftStickX"
+			],
+			[
+				"leftS",
+				"leftStickX"
+			],
+			[
+				"inc",
+				"incX"
+			],
+			[
+				"st",
+				"stickWidth"
+			],
+			[
+				"update",
+				"updateSticks"
+			],
+			[
+				"drae",
+				"drawLeftStick"
+			],
+			[
+				"se",
+				"stickSeparation"
+			],
+			[
+				"ini",
+				"initBall"
+			],
+			[
+				"draw",
+				"drawBall"
+			],
+			[
+				"dra",
+				"drawBall"
+			],
+			[
+				"arra",
+				"arrayNotation"
+			],
+			[
+				"object",
+				"objectNotation"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"val",
+				"vertical-align\tproperty"
+			],
+			[
+				"vSe",
+				"vSelect2"
+			],
+			[
+				"vS",
+				"vSelect1"
+			],
+			[
+				"vSele",
+				"vSelect1"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"llista",
+				"llistaCompra"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"pro",
+				"producte"
+			],
+			[
+				"oper",
+				"operando2"
+			],
+			[
+				"op",
+				"operando1"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"min",
+				"numMinColors"
+			],
+			[
+				"num",
+				"numColors"
+			],
+			[
+				"displa",
+				"displayPointer"
+			],
+			[
+				"ign",
+				"ignoreWhite"
+			],
+			[
+				"qua",
+				"quality"
+			],
+			[
+				"sta",
+				"startX"
+			],
+			[
+				"fileN",
+				"fileNames"
+			],
+			[
+				"create",
+				"createAllPalettes"
+			],
+			[
+				"ke",
+				"key\tkeyPressed"
+			],
+			[
+				"colo",
+				"color_1_003"
+			],
+			[
+				"dis",
+				"displayAllPalettes"
+			],
+			[
+				"un",
+				"unsortMap"
+			],
+			[
+				"loa",
+				"loadpixels\tloadPixels"
+			],
+			[
+				"hex",
+				"hexColor"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"Colo",
+				"ColorImage"
+			],
+			[
+				"crea",
+				"createRandomPalette"
+			],
+			[
+				"ge",
+				"getImage"
+			],
+			[
+				"col",
+				"ColorImage"
+			],
+			[
+				"scene",
+				"sceneWidth"
+			],
+			[
+				"sce",
+				"sceneWidth"
+			],
+			[
+				"displ",
+				"displayCentroid"
+			],
+			[
+				"cen",
+				"centroid"
+			],
+			[
+				"OUTBAC",
+				"OUTBACK"
+			],
+			[
+				"INBA",
+				"INBACK"
+			],
+			[
+				"OUTELA",
+				"OUTELASTIC"
+			],
+			[
+				"INEL",
+				"INELASTIC"
+			],
+			[
+				"line",
+				"lineLength"
+			],
+			[
+				"mag",
+				"magnitude"
+			],
+			[
+				"INOUTELAS",
+				"INOUTELASTIC"
+			],
+			[
+				"im",
+				"imageName"
+			],
+			[
+				"load",
+				"loadimage\tloadImage"
+			],
+			[
+				"sclae",
+				"scale\tscale"
+			],
+			[
+				"rad",
+				"radt"
+			],
+			[
+				"cons",
+				"constrain\tconstrain"
+			],
+			[
+				"c_",
+				"c_a"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"G",
+				"GeneticGradient"
+			],
+			[
+				"set",
+				"setValue"
+			],
+			[
+				"mutat",
+				"mutateRate"
+			],
+			[
+				"Mut",
+				"Mutation"
+			],
+			[
+				"mu",
+				"Mutation"
+			],
+			[
+				"mut",
+				"mutateRate"
+			],
+			[
+				"stop",
+				"stopEvolution"
+			],
+			[
+				"top",
+				"topScoreAngleTarget"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"topSC",
+				"topScoreEquilateral"
+			],
+			[
+				"topS",
+				"topScoreDistCentroide"
+			],
+			[
+				"score",
+				"topScoreAngle"
+			],
+			[
+				"ang",
+				"angleTarget"
+			],
+			[
+				"angle",
+				"angleTartget"
+			],
+			[
+				"max",
+				"maxRadius"
+			],
+			[
+				"sco",
+				"scoreEquilateral"
+			],
+			[
+				"disa",
+				"distances"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"sc",
+				"scoreDistCentroide"
+			],
+			[
+				"an",
+				"angleTarget"
+			],
+			[
+				"mouse",
+				"mouse\tmousePressed"
+			],
+			[
+				"click",
+				"clickedOn"
+			],
+			[
+				"pop",
+				"popMax"
+			],
+			[
+				"rollO",
+				"rolloverOn"
+			],
+			[
+				"ellipse",
+				"ellipseMode\tellipseMode"
+			],
+			[
+				"life",
+				"lifeCounter"
+			],
+			[
+				"cona",
+				"contains"
+			],
+			[
+				"obs",
+				"obs"
+			],
+			[
+				"po",
+				"population"
+			],
+			[
+				"new",
+				"newgenes"
+			],
+			[
+				"fitnes",
+				"fitnessNormal"
+			],
+			[
+				"gene",
+				"geneCounter"
+			],
+			[
+				"app",
+				"applyForce"
+			],
+			[
+				"begin",
+				"beginshape\tbeginShape"
+			],
+			[
+				"best",
+				"bestPhrase"
+			],
+			[
+				"dist",
+				"distGreen"
+			],
+			[
+				"muta",
+				"mutationRate"
+			],
+			[
+				"setu",
+				"setup\tsetup"
+			],
+			[
+				"ler",
+				"lerpcolor\tlerpColor"
+			],
+			[
+				"back",
+				"background\tbackground grey"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					""
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Re-run sketch"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Run sketch (Processing 3 only)"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Export sketch as application"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Kill running sketches"
+				]
+			],
+			[
+				"Packages/Processing/Build Systems/Processing.sublime-build",
+				"Run sketch (Processing 3 only)"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst\ta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/GITHUB/Pixelorama/Pixelorama"
+	],
+	"file_history":
+	[
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/Traversing2.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/shoopingList.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/45 - Remove method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/43 - After and Before methods.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/40 - Append method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/41 - Prepend method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/42 - Append method - Insert several new elements.html",
+		"/D/GITHUB/WEB/WEB/JSON/CLASSE/selects.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/21 - Nested Array.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/16 - Loop an Object.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/07 - XMLHttpRequest.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/08 - Content as Array.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/05 - JSON Data Types.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/02 - loadContentOldIE.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/01 - Sending Data to Server.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/01 - loadContent.html",
+		"/C/wamp/www/JSON/select.html",
+		"/C/wamp/www/JSON/carroceries.php",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/customers.php",
+		"/C/wamp/www/JSON/08ContentArray.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/51 - ToggleClass method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/50 - RemoveClass method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/24 - Animate method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/48 - AddClass method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/25 - Animate  to manipulate multiple CSS properties.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/28 - Animate method (example 2).html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/29 - Animate method (example 3).html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/30 - Stop sliding.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/31 - Stop animation with parameters.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/32 - Text and HTML get content.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/36 - Text, html, and val methods - set content.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/PingPong/styles.css",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/PingPong/pingpong.js",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/PingPong/index.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/23 - SlideToggle method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/22 - SlideUp method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/21 - SlideDown method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/20 - FadeTo method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/18 - FadeOut method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/17 - FadeIn method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/showHideToggle.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/14 - Hide and Show method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/13 - Hide methos.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/basicJquery.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/plantillaJQuery.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/01 - Hide P selectors.html",
+		"/C/Users/ToniMitjanit/Downloads/jquery-3.3.1.min (2).map",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/11 - ResponseText.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/12 - ResponseXML.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/13 - getAllResponseHeaders.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/14 - getResponseHeader.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/15 - XML Example.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/16 - PHP Example.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/gethint.php",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/18 - DDBB Example.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/getcustomer.php",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/19 - Display XML in HTML Table.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/20 - Display XML in HTML Div.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/21 - Navigate between XML Data.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/22 - Show XML Info by Clicking on Table Row.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/10 - Callback Function.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/09 - Synchronous Request.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/08 - onReadyStateChange.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/07 - loadContent POST with Params.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/05 - loadContent GET with URL params.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/04 - loadContent GET No Cache.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/03 - loadContent GET.html",
+		"/D/GITHUB/WEB/WEB/AJAX/EXEMPLES/06 - loadContent POST.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/createObject.php",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/27 - Get Data From DataBase PHP POST.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/demo_jsonp.php",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/33 - JSONP with Data from PHP.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/demo_jsonp_db.php",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/24 - Get Data from PHP.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/createArray.php",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/25 - Get Array from PHP.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/26 - Get Data from Database PHP GET.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/select.php",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/34 - JSONP Callback Function.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/32 - Dynamic Script Tag.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/31 - Using JSONP.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/30 - Select with Data from PHP.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/28 - Create HTML Table with Data from PHP.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/29 - Dynamic Table with Data from PHP.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/23 - Delete Array Values.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/22 - Modify Array Values.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/20 - Loop Array.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/19 - Access Array.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/18 - Delete Object Property.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/17 - Nested Objects.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/15 - Stringify Functions.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/14 - Stringify Dates.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/13 - Stringify Array.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/12 - Stringify.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/11 - Parse Functions.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/10 - Parse Dates with Reviver.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/marques.txt",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/09 - Parse Dates.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/06 - JSON object from String.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/03 - Local Data.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/bookStore/bookStorev2.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/02 - Convert String into JSON object.html",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/animals.json",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/empleats.json",
+		"/D/GITHUB/WEB/WEB/JSON/EXAMPLES/empleats.xml",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/cybermonday.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/DinamicForm.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/bookStore.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/bookStore/bookStore.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/EXEMPLES/38 - Math random function.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/regExpressions.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/timer.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/33 - Val get content.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/35 - Text and html methods - set content with callback function.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/46 - Empty method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/Traversing.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/CLASSE/Selectors.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/19 - FadeToggle method.html",
+		"/D/GITHUB/WEB/WEB/JQUERY/EXAMPLES/26 - Animate  using relative values.html",
+		"/C/Users/ToniMitjanit/Downloads/jquery-3.3.1.min (1).map",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/loopFor.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/shoppingList.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/arrayFuntions.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/shoppingList00.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/arrowFunctions.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/getElementByClassName.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/debugging.html",
+		"/D/GITHUB/WEB/WEB/JAVASCRIPT/CLASSE/createElement.html"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 69.6
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Processing/Build Systems/Processing.sublime-build",
+	"project": "pixelorama.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\GITHUB\\WEB\\WEB\\web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 450.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
